@@ -1,6 +1,2 @@
 # PacManJaxaFX
-In order to Run you need to download and use the Java 9.0 SDK
-
-https://carrollcc-my.sharepoint.com/:f:/g/personal/zkhan_carrollcc_edu/EuDSs3gZedRBlk7cUq5cfGwBwQFxgGHziwifhpck1MvS4A?e=RgF9zv
-
-once installed open the project in Intellij. Select File -> Project Str
+Pac-Man game in JavaFX for CIS232 - Select the Branches dropdown (main) -> select the "PacMan" branch to open the game files -> Selecting the Pacman option with the blue folder opens the directory -> The Java files are in the src folder. 
