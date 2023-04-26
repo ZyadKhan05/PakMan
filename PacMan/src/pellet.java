@@ -1,0 +1,3 @@
+class pellet {
+    Integer scoreValue;
+}
