@@ -1,3 +1,0 @@
-class pellet {
-    Integer scoreValue;
-}
