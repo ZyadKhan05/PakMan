@@ -8,6 +8,7 @@ Note that you need to be using Java 9.0 SDK in order to run the program as the M
 Contributors: 
 
 Colton Swanson
+
 Ken Wei
 Virginia Johnston
 Zyad Khan
